@@ -34,7 +34,8 @@ inputs:
   - wtu_mailsender:
     opts:
       title: Email of the sender
-      summary: Relative path to application's installer (APK or IPA)
+      summary: |
+      Relative path to application's installer (APK or IPA)
       description: |
         Relative path to application's installer (APK or IPA)`./`
       is_required: true
